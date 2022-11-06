@@ -3,7 +3,7 @@
 
 ## YOLO系列
 [YOLOv1](./cv/object detection/YOLO/YOLOv1/README.md)
-YOLOv2
+[YOLOv2](cv/a.md)
 YOLOv3
 YOLOv4
 YOLOv5
