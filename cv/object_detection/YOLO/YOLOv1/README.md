@@ -1,7 +1,7 @@
 # 0. 一分钟了解YOLO
-![img_1.png](img_1.png)
 YOLO是机器视觉中的一个常用的目标检测算法。
 于2015年，由Joseph Redmon等人提出。
+![img_1.png](img_1.png)
 
 论文：You Only Look Once: Unified, Real-Time Object Detection
 
